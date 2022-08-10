@@ -1,3 +1,4 @@
+import { supabase } from './supabase';
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
