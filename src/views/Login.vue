@@ -11,6 +11,10 @@
     export default {
         setup() {
             const email = ref();
+
+            return {
+                email,
+            }
         }
         
     }
